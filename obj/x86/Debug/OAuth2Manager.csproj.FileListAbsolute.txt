@@ -1,13 +1,8 @@
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\Controls\FlexibleWebAuthView.xbf
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\OAuth2Manager.xr.xml
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\OAuth2Manager.dll
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\OAuth2Manager.pdb
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\OAuth2Manager.pri
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\Controls\FlexibleWebAuthView.g.i.cs
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\Controls\FlexibleWebAuthView.g.cs
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\XamlTypeInfo.g.cs
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\Controls\FlexibleWebAuthView.xaml
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\Controls\FlexibleWebAuthView.xbf
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\XamlSaveStateFile.xml
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\OAuth2Manager.dll
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\OAuth2Manager.pdb
@@ -22,4 +17,8 @@ C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\qualifiers.txt
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
-C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\OAuth2Manager.csprojResolveAssemblyReference.cache
+C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\bin\x86\Debug\FlexibleWebAuthView.xbf
+C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\FlexibleWebAuthView.g.i.cs
+C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\FlexibleWebAuthView.g.cs
+C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\FlexibleWebAuthView.xaml
+C:\Users\Waseem\Documents\Visual Studio 2015\Projects\TestingWebAuthBroker\OAuth2Manager\obj\x86\Debug\FlexibleWebAuthView.xbf

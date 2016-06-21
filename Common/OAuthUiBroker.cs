@@ -7,7 +7,6 @@ using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Media;
-using OAuth2Manager.Controls;
 using OAuth2Manager.Core.Methods.ThreeLegged;
 using OAuth2Manager.Core.Methods.TwoLegged;
 using OAuth2Manager.Extensions;
@@ -32,7 +31,7 @@ namespace OAuth2Manager.Common
             {
                 await oAuth.ProcessUserAuthorizationAsync(sender as Uri);
                 RestoreView();
-                OnAuthenticated(oAuth, new AuthenticatedEventArgs(oAuth.AccessToken.Code, oAuth.AccessToken.RefreshToken, oAuth.AccessToken.Expires));
+                OnAuthenticated?.Invoke(oAuth, new AuthenticatedEventArgs(oAuth.AccessToken.Code, oAuth.AccessToken.RefreshToken, oAuth.AccessToken.Expires));
                 await new MessageDialog("Access Token Received: " + oAuth.AccessToken.Code).ShowAsync();
             };
         }
@@ -99,9 +98,12 @@ namespace OAuth2Manager.Common
         private static void StoreElements()
         {
             controls = new List<UIElement>();
-            foreach (var item in GetUIElementCollectionInstance())
+            if (GetUIElementCollectionInstance() != null)
             {
-                controls.Add(item);
+                foreach (var item in GetUIElementCollectionInstance())
+                {
+                    controls.Add(item);
+                }
             }
         }
 

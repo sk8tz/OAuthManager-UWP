@@ -26,6 +26,6 @@
       <RootProperty Name="Width" />
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension" />
-    <RootType FullName="OAuth2Manager.Controls.FlexibleWebAuthView" />
+    <RootType FullName="OAuth2Manager.FlexibleWebAuthView" />
   </Roots.RootTypes>
 </Roots>

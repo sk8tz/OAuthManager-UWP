@@ -16,7 +16,7 @@ using OAuth2Manager.Common;
 
 // The User Control item template is documented at http://go.microsoft.com/fwlink/?LinkId=234236
 
-namespace OAuth2Manager.Controls
+namespace OAuth2Manager
 {
     public sealed partial class FlexibleWebAuthView : UserControl, IUserAuthorizationViewer
     {
@@ -29,6 +29,7 @@ namespace OAuth2Manager.Controls
         public FlexibleWebAuthView()
         {
             this.InitializeComponent();
+            FlexibleWebAuthViewControl.Focus(FocusState.Pointer);
             this.InitEvents();
         }
 
